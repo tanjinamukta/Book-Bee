@@ -1,2 +1,0 @@
-# BookBee
-BookBee Description
